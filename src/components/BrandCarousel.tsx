@@ -9,7 +9,7 @@ import 'swiper/css';
 import 'swiper/css/effect-fade';
 
 const brands = [
-  { name: 'na:Temat', logo: 'na:Temat' },
+  { name: 'Meta', logo: 'Meta' },
   { name: 'Bank Pekao', logo: 'Bank Pekao' },
   { name: 'KFC', logo: 'KFC' },
   { name: 'IKEA', logo: 'IKEA' },
